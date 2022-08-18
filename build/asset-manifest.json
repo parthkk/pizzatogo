@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pizzatogo/static/css/main.4f663756.chunk.css",
+    "main.js": "/pizzatogo/static/js/main.1993c92e.chunk.js",
+    "main.js.map": "/pizzatogo/static/js/main.1993c92e.chunk.js.map",
+    "runtime-main.js": "/pizzatogo/static/js/runtime-main.9eab6f59.js",
+    "runtime-main.js.map": "/pizzatogo/static/js/runtime-main.9eab6f59.js.map",
+    "static/js/2.c96fb349.chunk.js": "/pizzatogo/static/js/2.c96fb349.chunk.js",
+    "static/js/2.c96fb349.chunk.js.map": "/pizzatogo/static/js/2.c96fb349.chunk.js.map",
+    "index.html": "/pizzatogo/index.html",
+    "static/css/main.4f663756.chunk.css.map": "/pizzatogo/static/css/main.4f663756.chunk.css.map",
+    "static/js/2.c96fb349.chunk.js.LICENSE.txt": "/pizzatogo/static/js/2.c96fb349.chunk.js.LICENSE.txt",
+    "static/media/meals2.17263fad.jpeg": "/pizzatogo/static/media/meals2.17263fad.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9eab6f59.js",
+    "static/js/2.c96fb349.chunk.js",
+    "static/css/main.4f663756.chunk.css",
+    "static/js/main.1993c92e.chunk.js"
+  ]
+}
